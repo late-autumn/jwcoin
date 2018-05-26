@@ -1,0 +1,9 @@
+Building Jwcoin
+
+See doc/readme-qt.rst for instructions on building Jwcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Jwcoin.
+
+See doc/build-*.txt for instructions on building jwcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Jwcoin.
